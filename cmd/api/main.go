@@ -16,6 +16,7 @@ import (
 	"curator.dev/greenlight-api/internal/jsonlog"
 	"curator.dev/greenlight-api/internal/mailer"
 	"github.com/joho/godotenv"
+
 	_ "github.com/lib/pq"
 )
 
