@@ -123,4 +123,4 @@ make db/migrations/down
 
 ## Acknowledgments
 
-[Alex Edwards](Alex Edwards "Alex Edwards") for the [Let&#39;s Go Futher book](https://lets-go-further.alexedwards.net/ "Let's Go Futher book"), which inspired the structure of this project.
+[Alex Edwards](https://www.alexedwards.net/) for the [Let&#39;s Go Futher book](https://lets-go-further.alexedwards.net/ "Let's Go Futher book"), which inspired the structure of this project.
